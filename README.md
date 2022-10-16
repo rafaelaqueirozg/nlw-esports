@@ -29,4 +29,10 @@ The eSports is an app to connect players with other players through their favori
 $ git clone https://github.com/rafaelaqueirozg/nlw-esports.git
 ```
 
+## See the README of:
+
+- [Server](/server/README.md);
+- [Web](/web/README.md);
+- [Mobile](/mobile/README.md);
+
 <h2 align="center">Made with ❤️ by <a href="https://www.linkedin.com/in/rafaelaqueirozg/">Rafaela Queiroz</a></h2>

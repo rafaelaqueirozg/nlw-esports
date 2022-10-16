@@ -6,7 +6,7 @@
 
 Project built during Next Level Week.
 
-# 💻 Sobre
+# 💻 About
 
 The eSports is an app to connect players with other players through their favorite games.
 
@@ -22,7 +22,7 @@ The eSports is an app to connect players with other players through their favori
 - NodeJs
 - Express
 
-# 🤓 How to use
+# Quick start
 
 ```
 # Clone this repository
